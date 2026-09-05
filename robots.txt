@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herol3oy.github.io/sitemap.xml
